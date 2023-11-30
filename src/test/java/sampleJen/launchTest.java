@@ -13,6 +13,7 @@ public class launchTest {
 	{
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://www.amazon.in/");
-		System.out.println("Browser launched");
+		System.out.println("Browser launched sucess");
+		
 	}
 }
