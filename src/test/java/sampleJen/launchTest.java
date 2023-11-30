@@ -12,6 +12,6 @@ public class launchTest {
 	public void m1Test()
 	{
 		WebDriver driver = new ChromeDriver();
-		driver.get("");
+		driver.get("https://www.amazon.in/");
 	}
 }
